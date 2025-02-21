@@ -1,0 +1,17 @@
+.app-header{
+  text-align: center;
+  height : 8vh;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.main-content {
+  display: flex; 
+  flex-grow: 1; 
+  padding: 20px;
+
+}
